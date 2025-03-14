@@ -9,5 +9,5 @@ Backend Team: Darren Chin, Lena Nguyen, Marshall Liu
 
 Code is unaccessable at the moment. 
 
-Demo Link: https://www.youtube.com/watch?app=desktop&amp;v=oNB__gjI_bA
+Demo Link: [https://www.youtube.com/watch?app=desktop&amp;v=oNB__gjI_bA](https://youtu.be/oNB__gjI_bA?si=GBQTsLk6pgB6WoUt)
 
