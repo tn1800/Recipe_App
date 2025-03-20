@@ -4,8 +4,8 @@ Users will be able to store and view their recipes. They can filter them by many
 
 Janurary 2024 - March 2024
 
-Frontend Team: Tracy La, Tristan Ngo, Mirabel Vuong
-Backend Team: Darren Chin, Lena Nguyen, Marshall Liu 
+## Frontend Team: Tracy La, Tristan Ngo, Mirabel Vuong
+## Backend Team: Darren Chin, Lena Nguyen, Marshall Liu 
 
 Code is unaccessable at the moment. 
 
